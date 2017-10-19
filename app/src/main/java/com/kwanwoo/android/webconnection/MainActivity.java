@@ -18,7 +18,7 @@ import org.json.JSONObject;
 public class MainActivity extends AppCompatActivity {
 
     final static String TAG = "AndroidNodeJS";
-    final static String defaultUrl = "http://172.30.1.40:3000";
+    final static String defaultUrl = "http://Server-IP-Address:80";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
